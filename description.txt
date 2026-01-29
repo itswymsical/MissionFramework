@@ -1,0 +1,21 @@
+Build complex, narrative-driven missions for your Terraria mod with the same depth as many popular Looter-Shooter titles. MissionFramework provides everything you need to create simple "kill X enemies" objectives or full story campaigns with dialogue, cutscenes, and branching narratives.
+
+Core Systems:
+- Complete mission lifecycle management (creation, tracking, completion, rewards)
+- Event handler system covering player interactions, combat, NPC dialogue, world events, and environmental triggers
+- Mission chaining and branching support
+- Objective tracking with multiple concurrent objectives
+
+Tools:
+- Dialogue system with character portraits and text sequencing
+- Cutscene framework for scripted events
+- Mission briefings and debriefings
+- Custom UI elements for mission display and tracking
+
+Dev-Friendly:
+- Easy mission definition
+- Extensive event hooks for custom triggers
+- Modular architecture (use what you need, ignore what you don't)
+- Built on existing systems/classes for compatibility
+
+Whether you're building a simple bounty board or a full narrative campaign, MissionFramework handles the heavy lifting so you can focus on content.
